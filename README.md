@@ -1,4 +1,4 @@
-![logo](WhatsApp Image 2026-03-14 at 4.45.05 PM.jpeg)
+![logo](https://github.com/omkar-robotics/omkar-robotics/blob/main/WhatsApp%20Image%202026-03-14%20at%204.45.05%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Omkar Honrao</h1>
 <h3 align="center">Electrical Engineering Student | Robotics & Automation Enthusiast</h3>
 
