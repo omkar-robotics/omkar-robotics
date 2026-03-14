@@ -3,7 +3,7 @@
 <h3 align="center">Electrical Engineering Student | Robotics & Automation Enthusiast</h3>
 
 
-<img align="right" alt="robotics"width="400"src="https://share.google/40PQjQkRJ8O9VAHBO"
+<img align="right" alt="robotics" width="400"src="[https://share.google/40PQjQkRJ8O9VAHBO](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-robotics&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-robotics" /> </p>
 
