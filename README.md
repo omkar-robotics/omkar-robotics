@@ -1,23 +1,15 @@
 ![logo](https://github.com/omkar-robotics/omkar-robotics/blob/main/WhatsApp%20Image%202026-03-14%20at%204.45.05%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Omkar Honrao</h1>
-<h3 align="center">Electrical Engineering Student | Robotics & Automation Enthusiast</h3>
+<h3 align="center">A passionate Robotics Engineer from India</h3>
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-robotics&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-robotics" /> </p>
 
-- 🔭 I’m currently working on [🔭 I’m currently working on Hand-Following Robot using OpenCV & MediaPipe](https://github.com/omkar-robotics/hand-following-robot-opencv)
-
 - 🌱 I’m currently learning **ROS2, Computer Vision, SLAM, Robot Navigation, Gazebo Simulation,fusion360**
 
-- 👯 I’m looking to collaborate on [ROS2 Robotics Projects](https://github.com/omkar-robotics)
-
-- 🤝 I’m looking for help with [Autonomous Mobile Robot using ROS2 Navigation2](https://github.com/omkar-robotics)
-
 - 👨‍💻 All of my projects are available at [https://github.com/omkar-robotics](https://github.com/omkar-robotics)
-
-- 💬 Ask me about **ROS2, Computer Vision, SLAM, Robot Navigation, Gazebo Simulation,fusion360**
 
 - 📫 How to reach me **omkarhonrao108@gmail.com**
 
