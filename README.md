@@ -1,3 +1,4 @@
+![logo](WhatsApp Image 2026-03-14 at 4.45.05 PM.jpeg)
 <h1 align="center">Hi 👋, I'm Omkar Honrao</h1>
 <h3 align="center">Electrical Engineering Student | Robotics & Automation Enthusiast</h3>
 
